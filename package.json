@@ -5,7 +5,7 @@
   "homepage": "/app/static/build",
   "proxy": "http://118.25.135.109/",
   "devDependencies": {
-    "react-scripts": "0.8.4",
+    "react-scripts": "5.0.1",
     "redux-immutable-state-invariant": "^1.2.4"
   },
   "dependencies": {
